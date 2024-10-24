@@ -1,3 +1,4 @@
+
 const listEl = document.querySelector(".gallery");
 
 console.log(listEl);
